@@ -1,0 +1,28 @@
+{
+    "projects": [
+        {
+            "title": "AI Photo Journal Assistant",
+            "description": "A tool to transform daily experiences into journal entries using AI-driven image captioning.",
+            "link": "https://github.com/vinay-852/Photo_Journel_Assistant",
+            "thumbnail": "images/ai-photo-journal-assistant.png",
+            "caption": "Transforming daily experiences into journal entries.",
+            "liveLink": "https://photojournalassistant.example.com"
+        },
+        {
+            "title": "AI Agents for Sheets",
+            "description": "An AI-powered tool for automating data extraction and analysis in Google Sheets and CSV files.",
+            "link": "https://github.com/vinay-852/AI-Agent-for-Sheets",
+            "thumbnail": "images/ai-agents-for-sheets.png",
+            "caption": "Automating data extraction and analysis.",
+            "liveLink": "https://aiagentsforsheets.example.com"
+        },
+        {
+            "title": "Attendance Management System",
+            "description": "A facial recognition-based attendance tracking system using OpenCV and Streamlit.",
+            "link": "https://github.com/vinay-852/Face_Recognition",
+            "thumbnail": "images/attendance-management-system.png",
+            "caption": "Real-time attendance tracking.",
+            "liveLink": ""
+        }
+    ]
+}

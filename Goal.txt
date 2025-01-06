@@ -1,0 +1,83 @@
+Portfolio Goals:
+
+1. Build a Portfolio
+2. Ensure the portfolio includes the following pages:
+    - Home
+    - About Me
+    - Contact
+    - Projects
+    - Resume
+    - Photo Gallery
+    - Achievements
+
+Common Header:
+    - Header
+        --> Page Title
+        --> Navigation Menu
+
+3. Home:
+    - Common Header
+        --> Home
+    - Main Content
+        --> Introduction
+        --> Latest Projects
+        --> Call to Action
+    - Footer
+        --> Contact Information
+        --> Social Media Links
+4. About Me:
+    - Common Header
+        --> About Me
+    - Main Content
+        --> Biography
+        --> Skills
+        --> Education
+        --> Work Experience
+    - Footer
+        --> Contact Information
+        --> Social Media Links
+5. Contact:
+    - Common Header
+        --> Contact
+    - Main Content
+        --> Contact Form
+        --> Contact Details
+    - Footer
+        --> Contact Information
+        --> Social Media Links
+6. Projects:
+    - Common Header
+        --> Projects
+    - Main Content
+        --> Project List
+        --> Project Details
+    - Footer
+        --> Contact Information
+        --> Social Media Links
+7. Resume:
+    - Common Header
+        --> Resume
+    - Main Content
+        --> Downloadable Resume
+        --> Key Highlights
+    - Footer
+        --> Contact Information
+        --> Social Media Links
+8. Photo Gallery:
+    - Common Header
+        --> Photo Gallery
+    - Main Content
+        --> Image Gallery
+        --> Image Descriptions
+    - Footer
+        --> Contact Information
+        --> Social Media Links
+9. Achievements:
+    - Common Header
+        --> Achievements
+    - Main Content
+        --> List of Achievements
+        --> Certificates and Awards
+    - Footer
+        --> Contact Information
+        --> Social Media Links
